@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: 'Source Code Pro', monospace;
+}
+p {
+  color: white;
+  font-weight: 200;
+}
+.projects {
+  font-weight: 500;
+  font-size: 20px;
+}
+a {
+  color: white;
+  font-weight: 200;
+}
