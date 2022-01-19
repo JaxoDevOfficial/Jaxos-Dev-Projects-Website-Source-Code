@@ -1,6 +1,8 @@
 body {
   text-align: center;
   font-family: 'Source Code Pro', monospace;
+  background-image: url('bg.gif');
+  background-repeat: repeat;
 }
 p {
   color: white;
