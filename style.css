@@ -2,7 +2,7 @@ body {
   text-align: center;
   font-family: 'Source Code Pro', monospace;
   background-image: url('bg.gif');
-  background-size: auto;
+  background-size: 100vh 100vh;
   background-repeat: no-repeat;
 }
 p {
