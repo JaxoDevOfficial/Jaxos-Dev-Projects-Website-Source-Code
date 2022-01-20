@@ -1,4 +1,4 @@
 function back() {
-  open("https://jaxo.dev/")
-  close()
+  window.open("https://jaxo.dev/")
+  window.close()
 }
