@@ -4,7 +4,6 @@ body {
   background-image: url('bg.gif');
   background-size: cover;
   background-repeat: no-repeat;
-  backdrop-filter: blur(15px);
 }
 p {
   color: white;
