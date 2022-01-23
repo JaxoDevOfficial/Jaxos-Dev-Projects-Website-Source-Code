@@ -1,7 +1,7 @@
 body {
   text-align: center;
   font-family: 'Source Code Pro', monospace;
-  background: linear-gradient(45deg, rgba(38,172,190,1) 0%, rgba(255,255,255,1) 50%, rgba(142,255,0,1) 100%); 
+  background: linear-gradient(45deg, rgba(255,0,223,1) 0%, rgba(255,255,0,1) 100%); 
 }
 p {
   color: white;
