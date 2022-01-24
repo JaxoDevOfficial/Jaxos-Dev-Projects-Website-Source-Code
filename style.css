@@ -20,7 +20,7 @@ h1 {
   color: white;
 }
 .obj {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.2);
   border-radius: 15px;
   padding: 8px;
   width: 300px;
