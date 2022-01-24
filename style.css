@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
 body {
   text-align: center;
   font-family: 'Quicksand', sans-serif;
@@ -10,14 +10,18 @@ p {
   color: white;
 }
 .projects {
-  font-weight: 500;
   font-size: 20px;
 }
 a {
   color: white;
-  font-weight: 200;
 }
 h1 {
   font-size: 69px;
   color: white;
+}
+.obj {
+  background-color: rgb(0, 0, 0, 0);
+  border-radius: 15px;
+  height: 30px;
+  width: 300px;
 }
