@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  font-size: 30px;
+  color: black;
+  background-color: wheat;
+  text-align: center;
+}
+.status {
+  font-style: italic;
+}
+button {
+  border-radius: 5px;
+  border: solid 2px black;
+  background-color: wheat;
+  font-style: bold;
+}
