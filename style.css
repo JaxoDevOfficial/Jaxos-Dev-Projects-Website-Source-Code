@@ -17,7 +17,8 @@ a {
 }
 h1 {
   font-size: 69px;
-  color: white;
+  color: rgba(0, 0, 0, 0);
+  font-border: 2px;
 }
 .obj {
   background-color: rgba(0, 0, 0, 0.2);
